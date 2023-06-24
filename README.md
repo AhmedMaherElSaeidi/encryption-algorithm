@@ -22,4 +22,4 @@ To encrypt a message using this algorithm, we follow the following steps:
 
 This algorithm provides a relatively secure way to encrypt a message by combining two different encryption techniques. However, like any encryption algorithm, it is still vulnerable to attacks and should not be used for highly sensitive information without proper consideration of its security limitations.
 
-## You can use it, but you need windows OS. [Download Script](https://raw.githubusercontent.com/AhmedMaherElSaeidi/encryption-script/main/assets/Script.rar).
+### You can use it, but you need windows OS. [Download Script](https://raw.githubusercontent.com/AhmedMaherElSaeidi/encryption-script/main/assets/Script.rar).
